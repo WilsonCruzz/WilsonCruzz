@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilsonCruzz
 - 👀 I’m interested in machine learning, back-end development.
-- 🌱 I’m currently learning Python programming, data science.
+- 🌱 I’m currently learning Python programming, data science, with a focus on becoming a Python Software Development Engineer.
 - 💞️ I’m looking to collaborate on open-source projects,.
 - 📫 How to reach me You can reach me via email at chun-wei.wang@mygeorgian.ca, or connect with me on LinkedIn: www.linkedin.com/in/chun-wei-wang-9ab9981a2.
 - 😄 Pronouns: he/him
