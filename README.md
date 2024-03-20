@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @WilsonCruzz
+- 👀 I’m interested in machine learning, back-end development.
+- 🌱 I’m currently learning Python programming, data science.
+- 💞️ I’m looking to collaborate on open-source projects,.
+- 📫 How to reach me You can reach me via email at chun-wei.wang@mygeorgian.ca, or connect with me on LinkedIn: www.linkedin.com/in/chun-wei-wang-9ab9981a2.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a Shiba Inu and a Yorkshire Terrier, and they are incredibly adorable..
