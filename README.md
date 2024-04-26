@@ -11,7 +11,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=flask,django,tensorflow,anaconda,pytorch,dotnet,vue" alt="framework">
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="os">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,firebase,heroku" alt="git">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="os">&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,firebase,heroku" alt="git">&nbsp;
   <img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="os">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,phpstorm,webstorm,clion,rider" alt="ide">
