@@ -11,10 +11,8 @@
   <br>
   <img src="https://skillicons.dev/icons?i=flask,django,tensorflow,anaconda,spring,maven,dotnet,express,vue,react,redux" alt="framework">
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="DB">&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux,docker,k8s" alt="tool">&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="DB">&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,docker,k8s,postman,powershell" alt="tool">&nbsp;
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="os">&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,gitlab,vercel,firebase,netlify" alt="git">&nbsp;
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea" alt="ide">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="cloud">&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab,vercel,firebase,netlify" alt="git">&nbsp;
