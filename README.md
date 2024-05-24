@@ -4,7 +4,7 @@
 - 💞️ I'm actively collaborating on open-source projects.
 - 📫 How to reach me You can reach me via [email](mailto:chun-wei.wang@mygeorgian.ca), or connect with me on [LinkedIn](https://www.linkedin.com/in/chun-wei-wang-9ab9981a2) .
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a Shiba Inu and a Yorkshire Terrier, and they are incredibly adorable..
+- ⚡ Fun fact: I have a Shiba Inu and a Yorkshire Terrier, and they are incredibly adorable.
 - SKILLs:
   
   <img src="https://skillicons.dev/icons?i=py,java,cs,go,nodejs,ts" alt="Languages">&nbsp;
