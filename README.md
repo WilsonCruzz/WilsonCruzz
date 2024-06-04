@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I have a Shiba Inu and a Yorkshire Terrier, and they are incredibly adorable.
 - SKILLs:
   
-  <img src="https://skillicons.dev/icons?i=py,java,cs,go,nodejs,ts" alt="Languages">&nbsp;  
+  <img src="https://skillicons.dev/icons?i=py,java,cs,go,nodejs,ts" alt="Languages">&nbsp;
   <br>
   <img src="https://skillicons.dev/icons?i=flask,django,tensorflow,anaconda,spring,maven,dotnet,express,vue,react,redux" alt="framework">
   <br>
