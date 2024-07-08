@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@WilsonCruzz](https://wilsoncruzz.github.io/resume/)    
+- 👋 Hi, I’m [@WilsonCruzz](https://wilsoncruzz.github.io/resume/)   
 - 👀 I'm passionate about back-end development, specializing in Spring6, SpringMVC, Mybatis, MybatisPlus, SpringBoot3 and SpringSecurity.  
 - 🌱 Experienced with frameworks such as Flask, Jinja2, Django, and Django REST Framework.
 - 💞️ I'm actively collaborating on open-source projects.
