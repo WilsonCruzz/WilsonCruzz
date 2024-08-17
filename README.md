@@ -16,3 +16,5 @@
   <br>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="cloud">&nbsp;
   <img src="https://skillicons.dev/icons?i=gitlab,vercel,firebase,netlify" alt="git">&nbsp;
+
+   ![Profile views](https://komarev.com/ghpvc/?username=wilsoncurzz&style=for-the-badge)
